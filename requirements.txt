@@ -1,1 +1,8 @@
 fastapi[all]
+fastai
+uvicorn
+timm
+fastcore
+scikit-learn
+Pillow
+pytest
